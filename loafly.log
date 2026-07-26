@@ -1,0 +1,124 @@
+2026-07-25 23:02:37,617 [INFO] Starting Loafly pipeline
+2026-07-25 23:02:37,618 [INFO] Created order 5001
+2026-07-25 23:02:37,618 [INFO] Created order 5002
+2026-07-25 23:02:37,618 [INFO] Created order 5003
+2026-07-25 23:02:37,618 [INFO] Created order 5004
+2026-07-25 23:02:37,618 [INFO] Created order 5005
+2026-07-25 23:02:37,619 [INFO] Created order 5006
+2026-07-25 23:02:37,619 [INFO] Created order 5007
+2026-07-25 23:02:37,619 [INFO] Created order 5008
+2026-07-25 23:02:37,619 [INFO] Created order 5009
+2026-07-25 23:02:37,619 [INFO] Created order 5010
+2026-07-25 23:02:37,619 [INFO] Created order 5011
+2026-07-25 23:02:37,619 [INFO] Created order 5012
+2026-07-25 23:02:37,619 [INFO] Created order 5013
+2026-07-25 23:02:37,620 [INFO] Created order 5014
+2026-07-25 23:02:37,620 [INFO] Created order 5015
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,620 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [ERROR] Missing LOAFLY_API_KEY in environment
+2026-07-25 23:02:37,621 [INFO] Pipeline completed
+2026-07-25 23:10:22,952 [INFO] Starting Loafly pipeline
+2026-07-25 23:10:22,953 [INFO] Created order 5001
+2026-07-25 23:10:22,953 [INFO] Created order 5002
+2026-07-25 23:10:22,953 [INFO] Created order 5003
+2026-07-25 23:10:22,953 [INFO] Created order 5004
+2026-07-25 23:10:22,954 [INFO] Created order 5005
+2026-07-25 23:10:22,954 [INFO] Created order 5006
+2026-07-25 23:10:22,954 [INFO] Created order 5007
+2026-07-25 23:10:22,954 [INFO] Created order 5008
+2026-07-25 23:10:22,954 [INFO] Created order 5009
+2026-07-25 23:10:22,954 [INFO] Created order 5010
+2026-07-25 23:10:22,954 [INFO] Created order 5011
+2026-07-25 23:10:22,954 [INFO] Created order 5012
+2026-07-25 23:10:22,954 [INFO] Created order 5013
+2026-07-25 23:10:22,954 [INFO] Created order 5014
+2026-07-25 23:10:22,954 [INFO] Created order 5015
+2026-07-25 23:10:22,955 [INFO] Saved order 5001: {'order_id': '5001', 'status': 'SAVED', 'total': 297.0}
+2026-07-25 23:10:22,955 [INFO] Saved order 5002: {'order_id': '5002', 'status': 'SAVED', 'total': 513.0}
+2026-07-25 23:10:22,955 [WARNING] Attempt 1 failed for order 5003: orders API unavailable for order 5003
+2026-07-25 23:10:24,955 [WARNING] Attempt 2 failed for order 5003: orders API unavailable for order 5003
+2026-07-25 23:10:26,956 [INFO] Saved order 5003: {'order_id': '5003', 'status': 'SAVED', 'total': 666.0}
+2026-07-25 23:10:26,957 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:10:26,957 [WARNING] Order 5004: skipping item 'Chocolate Cake Slice' with missing price
+2026-07-25 23:10:26,957 [INFO] Saved order 5004: {'order_id': '5004', 'status': 'SAVED', 'total': 369.0}
+2026-07-25 23:10:26,957 [WARNING] Attempt 1 failed for order 5005: orders API unavailable for order 5005
+2026-07-25 23:10:28,958 [WARNING] Attempt 2 failed for order 5005: orders API unavailable for order 5005
+2026-07-25 23:10:30,958 [INFO] Saved order 5005: {'order_id': '5005', 'status': 'SAVED', 'total': 243.0}
+2026-07-25 23:10:30,959 [INFO] Saved order 5006: {'order_id': '5006', 'status': 'SAVED', 'total': 1116.0}
+2026-07-25 23:10:30,959 [INFO] Saved order 5007: {'order_id': '5007', 'status': 'SAVED', 'total': 369.0}
+2026-07-25 23:10:30,959 [INFO] Saved order 5008: {'order_id': '5008', 'status': 'SAVED', 'total': 639.0}
+2026-07-25 23:10:30,960 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:10:30,960 [WARNING] Order 5009: skipping item 'Blueberry Muffin' with missing price
+2026-07-25 23:10:30,960 [WARNING] Attempt 1 failed for order 5009: orders API unavailable for order 5009
+2026-07-25 23:10:32,960 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:10:32,960 [WARNING] Order 5009: skipping item 'Blueberry Muffin' with missing price
+2026-07-25 23:10:32,961 [INFO] Saved order 5009: {'order_id': '5009', 'status': 'SAVED', 'total': 396.0}
+2026-07-25 23:10:32,961 [INFO] Saved order 5010: {'order_id': '5010', 'status': 'SAVED', 'total': 1467.0}
+2026-07-25 23:10:32,961 [INFO] Saved order 5011: {'order_id': '5011', 'status': 'SAVED', 'total': 189.0}
+2026-07-25 23:10:32,961 [INFO] Saved order 5012: {'order_id': '5012', 'status': 'SAVED', 'total': 351.0}
+2026-07-25 23:10:32,961 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:10:32,961 [WARNING] Order 5013: skipping item 'Cookie Box' with missing price
+2026-07-25 23:10:32,961 [INFO] Saved order 5013: {'order_id': '5013', 'status': 'SAVED', 'total': 135.0}
+2026-07-25 23:10:32,962 [INFO] Saved order 5014: {'order_id': '5014', 'status': 'SAVED', 'total': 603.0}
+2026-07-25 23:10:32,962 [INFO] Saved order 5015: {'order_id': '5015', 'status': 'SAVED', 'total': 135.0}
+2026-07-25 23:10:32,962 [INFO] Pipeline completed
+2026-07-25 23:28:22,122 [INFO] Starting Loafly pipeline
+2026-07-25 23:28:22,123 [INFO] Created order 5001
+2026-07-25 23:28:22,124 [INFO] Created order 5002
+2026-07-25 23:28:22,124 [INFO] Created order 5003
+2026-07-25 23:28:22,124 [INFO] Created order 5004
+2026-07-25 23:28:22,125 [INFO] Created order 5005
+2026-07-25 23:28:22,125 [INFO] Created order 5006
+2026-07-25 23:28:22,125 [INFO] Created order 5007
+2026-07-25 23:28:22,126 [INFO] Created order 5008
+2026-07-25 23:28:22,126 [INFO] Created order 5009
+2026-07-25 23:28:22,126 [INFO] Created order 5010
+2026-07-25 23:28:22,127 [INFO] Created order 5011
+2026-07-25 23:28:22,127 [INFO] Created order 5012
+2026-07-25 23:28:22,127 [INFO] Created order 5013
+2026-07-25 23:28:22,127 [INFO] Created order 5014
+2026-07-25 23:28:22,128 [INFO] Created order 5015
+2026-07-25 23:28:22,128 [INFO] Saved order 5001: {'order_id': '5001', 'status': 'SAVED', 'total': 297.0}
+2026-07-25 23:28:22,129 [INFO] Saved order 5002: {'order_id': '5002', 'status': 'SAVED', 'total': 513.0}
+2026-07-25 23:28:22,129 [INFO] Saved order 5003: {'order_id': '5003', 'status': 'SAVED', 'total': 666.0}
+2026-07-25 23:28:22,129 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:28:22,130 [WARNING] Order 5004: skipping item 'Chocolate Cake Slice' with missing price
+2026-07-25 23:28:22,130 [WARNING] Attempt 1 failed for order 5004: orders API unavailable for order 5004
+2026-07-25 23:28:24,131 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:28:24,132 [WARNING] Order 5004: skipping item 'Chocolate Cake Slice' with missing price
+2026-07-25 23:28:24,132 [INFO] Saved order 5004: {'order_id': '5004', 'status': 'SAVED', 'total': 369.0}
+2026-07-25 23:28:24,132 [WARNING] Attempt 1 failed for order 5005: orders API unavailable for order 5005
+2026-07-25 23:28:26,133 [INFO] Saved order 5005: {'order_id': '5005', 'status': 'SAVED', 'total': 243.0}
+2026-07-25 23:28:26,134 [WARNING] Attempt 1 failed for order 5006: orders API unavailable for order 5006
+2026-07-25 23:28:28,135 [WARNING] Attempt 2 failed for order 5006: orders API unavailable for order 5006
+2026-07-25 23:28:30,136 [INFO] Saved order 5006: {'order_id': '5006', 'status': 'SAVED', 'total': 1116.0}
+2026-07-25 23:28:30,136 [INFO] Saved order 5007: {'order_id': '5007', 'status': 'SAVED', 'total': 369.0}
+2026-07-25 23:28:30,137 [WARNING] Attempt 1 failed for order 5008: orders API unavailable for order 5008
+2026-07-25 23:28:32,153 [INFO] Saved order 5008: {'order_id': '5008', 'status': 'SAVED', 'total': 639.0}
+2026-07-25 23:28:32,172 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:28:32,174 [WARNING] Order 5009: skipping item 'Blueberry Muffin' with missing price
+2026-07-25 23:28:32,174 [INFO] Saved order 5009: {'order_id': '5009', 'status': 'SAVED', 'total': 396.0}
+2026-07-25 23:28:32,174 [INFO] Saved order 5010: {'order_id': '5010', 'status': 'SAVED', 'total': 1467.0}
+2026-07-25 23:28:32,175 [INFO] Saved order 5011: {'order_id': '5011', 'status': 'SAVED', 'total': 189.0}
+2026-07-25 23:28:32,175 [WARNING] Attempt 1 failed for order 5012: orders API unavailable for order 5012
+2026-07-25 23:28:34,176 [INFO] Saved order 5012: {'order_id': '5012', 'status': 'SAVED', 'total': 351.0}
+2026-07-25 23:28:34,176 [WARNING] Skipping item due to price error: Missing price
+2026-07-25 23:28:34,177 [WARNING] Order 5013: skipping item 'Cookie Box' with missing price
+2026-07-25 23:28:34,177 [INFO] Saved order 5013: {'order_id': '5013', 'status': 'SAVED', 'total': 135.0}
+2026-07-25 23:28:34,178 [WARNING] Attempt 1 failed for order 5014: orders API unavailable for order 5014
+2026-07-25 23:28:36,179 [INFO] Saved order 5014: {'order_id': '5014', 'status': 'SAVED', 'total': 603.0}
+2026-07-25 23:28:36,179 [INFO] Saved order 5015: {'order_id': '5015', 'status': 'SAVED', 'total': 135.0}
+2026-07-25 23:28:36,180 [INFO] Pipeline completed

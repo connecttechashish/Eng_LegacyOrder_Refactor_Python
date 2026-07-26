@@ -1,14 +1,15 @@
+from dotenv import load_dotenv
+load_dotenv()
+
+
 from loafly.extract import extract_orders
 from loafly.models import Order
 from loafly.load import save_order
 from loafly.logging_setup import setup_logging
+import logging
 
 def run():
     setup_logging()
-
-    from loafly.config import CONFIG
-    import logging
-
     logging.info("Starting Loafly pipeline")
 
     rows = extract_orders()
