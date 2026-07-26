@@ -1,2 +1,6 @@
-DISCOUNT_PERCENT = 10
-API_KEY = "loafly-prod-key-9f3a21"
+CONFIG = {
+    "currency": "USD",
+    "discount_percent": 10,
+    "input_file": "raw_orders.csv",
+    "retry_count": 3
+}

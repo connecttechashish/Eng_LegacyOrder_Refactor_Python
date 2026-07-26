@@ -1,5 +1,4 @@
 from .transform import clean_price, apply_discount
-from .config import DISCOUNT_PERCENT
 
 class Order:
     def __init__(self, order_id, customer):
@@ -14,4 +13,4 @@ class Order:
         total = 0
         for name, raw_price in self.items:
             total += clean_price(raw_price)
-        return apply_discount(total, DISCOUNT_PERCENT)
+        return apply_discount(total)
